@@ -12,11 +12,11 @@ Testowanie readme
 - [Technologie](#-technologie)
 - [Uruchomienie projektu](#-uruchomienie-projektu)
 - [Struktura projektu](#-struktura-projektu)
-- [Kontakt](#-kontakt)
+- [Kontakt](#-Suma)
 
 ---
 
-## 💡 O projekcie
+## 💡 Problem
 Testowanie informacje o projekcie.
 
 ---
@@ -44,3 +44,7 @@ Aby uruchomić projekt lokalnie, postępuj zgodnie z poniższymi krokami:
 1. **Sklonuj repozytorium:**
    ```bash
    git clone [https://github.com/twojanazwa/nazwa-projektu.git](https://github.com/twojanazwa/nazwa-projektu.git)
+
+## -Suma
+Suma
+   
