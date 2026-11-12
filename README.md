@@ -7,7 +7,7 @@ Testowanie readme
 ---
 
 ## 📋 Spis treści
-- [O projekcie](#-o_projekcie)
+- [Problem](#problem)
 - [Główne funkcje](#-główne-funkcje)
 - [Technologie](#-technologie)
 - [Uruchomienie projektu](#-uruchomienie-projektu)
