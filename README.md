@@ -12,7 +12,7 @@ Testowanie readme
 - [Technologie](#-technologie)
 - [Uruchomienie projektu](#-uruchomienie-projektu)
 - [Struktura projektu](#-struktura-projektu)
-- [Suma](#Suma)
+- [Suma](#suma)
 
 ---
 
@@ -46,6 +46,6 @@ Aby uruchomić projekt lokalnie, postępuj zgodnie z poniższymi krokami:
    git clone [https://github.com/twojanazwa/nazwa-projektu.git](https://github.com/twojanazwa/nazwa-projektu.git)
    ```
 
-## ⚙️ Suma
+## Suma
 Suma
    
