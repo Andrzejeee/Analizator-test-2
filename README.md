@@ -1,3 +1,46 @@
 # Analizator-test-2
 
-test nowego programu
+# Nazwa Projektu 🚀
+
+Krótki, chwytliwy opis Twojego projektu (np. "Aplikacja webowa do zarządzania zadaniami stworzona w React").
+
+---
+
+## 📋 Spis treści
+- [O projekcie](#-o-projekcie)
+- [Główne funkcje](#-główne-funkcje)
+- [Technologie](#-technologie)
+- [Uruchomienie projektu](#-uruchomienie-projektu)
+- [Struktura projektu](#-struktura-projektu)
+- [Kontakt](#-kontakt)
+
+---
+
+## 💡 O projekcie
+W tym miejscu opisz, czym jest Twój projekt, dlaczego został stworzony, jaki problem rozwiązywał oraz czego się przy nim nauczyłeś/aś.
+
+---
+
+## ✨ Główne funkcje
+- Funkcja 1 (np. Logowanie i rejestracja użytkowników)
+- Funkcja 2 (np. Dodawanie, edycja i usuwanie zadań)
+- Funkcja 3 (np. Tryb ciemny/jasny)
+
+---
+
+## 🛠 Technologie
+Projekt został zbudowany przy użyciu następujących narzędzi i bibliotek:
+- **Język:** HTML5 / CSS3 / JavaScript (lub Python, Java itp.)
+- **Framework/Biblioteka:** React / Vue / Node.js
+- **Stylizacja:** Tailwind CSS / SASS
+- **Narzędzia:** Git, GitHub
+
+---
+
+## ⚙️ Uruchomienie projektu
+
+Aby uruchomić projekt lokalnie, postępuj zgodnie z poniższymi krokami:
+
+1. **Sklonuj repozytorium:**
+   ```bash
+   git clone [https://github.com/twojanazwa/nazwa-projektu.git](https://github.com/twojanazwa/nazwa-projektu.git)
