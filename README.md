@@ -45,6 +45,6 @@ Aby uruchomić projekt lokalnie, postępuj zgodnie z poniższymi krokami:
    ```bash
    git clone [https://github.com/twojanazwa/nazwa-projektu.git](https://github.com/twojanazwa/nazwa-projektu.git)
 
-## -Suma
+## ⚙️ Suma
 Suma
    
