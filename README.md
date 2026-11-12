@@ -12,7 +12,7 @@ Testowanie readme
 - [Technologie](#-technologie)
 - [Uruchomienie projektu](#-uruchomienie-projektu)
 - [Struktura projektu](#-struktura-projektu)
-- [Kontakt](#-Suma)
+- [Suma](#-Suma)
 
 ---
 
