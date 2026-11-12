@@ -17,7 +17,7 @@ Testowanie readme
 ---
 
 ## 💡 O projekcie
-W tym miejscu opisz, czym jest Twój projekt, dlaczego został stworzony, jaki problem rozwiązywał oraz czego się przy nim nauczyłeś/aś.
+Testowanie informacje o projekcie.
 
 ---
 
