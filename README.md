@@ -1,8 +1,8 @@
 # Analizator-test-2
 
-# Nazwa Projektu 🚀
+# Analizator-test-2 🚀
 
-Krótki, chwytliwy opis Twojego projektu (np. "Aplikacja webowa do zarządzania zadaniami stworzona w React").
+Testowanie readme
 
 ---
 
